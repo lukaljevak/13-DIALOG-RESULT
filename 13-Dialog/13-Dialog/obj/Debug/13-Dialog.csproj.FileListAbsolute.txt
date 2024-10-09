@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\bin\Debug\13-Dialog.exe.config
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\bin\Debug\13-Dialog.exe
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\bin\Debug\13-Dialog.pdb
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\obj\Debug\13-Dialog.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\obj\Debug\_13_Dialog.Form1.resources
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\obj\Debug\_13_Dialog.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\obj\Debug\13-Dialog.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\obj\Debug\13-Dialog.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\obj\Debug\13-Dialog.exe
+C:\Users\Ucenik\source\repos\13-Dialog\13-Dialog\obj\Debug\13-Dialog.pdb
